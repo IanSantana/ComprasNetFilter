@@ -6,4 +6,4 @@ O Software ira abrir a lista de pregões e de acordo com sua lista de palavras-c
 
 
 ## Requisitos:
-Requer Windows e o navegador Microsoft Edge.
+Requer Windows e o navegador Microsoft Edge versão 89.
